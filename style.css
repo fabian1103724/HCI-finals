@@ -1,0 +1,316 @@
+.slogan{
+	position:relative;
+	top:-310px;
+	color:white;
+	left:100px;
+	background-color:black;
+	width:170px;
+}
+
+.slogan2{
+	position:relative;
+	bottom:380px;
+	background-color:#EB9100;
+	color:black;
+	width:70px;
+	left:225px;
+	
+}
+
+.slogan3{
+	position:relative;
+	background-color: black;
+	color:white;
+	width:125px;
+	left:100px;
+	top:-322px;
+}
+
+.title h1{
+	position:absolute;
+	background-color:#EB9100;
+	font-size:40px;
+	width:80px;
+	left:105px;
+	top:-20px;
+	text-align:left;
+	color:black;
+	border-radius:10px;
+	font-family: "Lato", sans-serif;
+	
+}
+
+.title h2{
+	position:absolute;
+	font-size:40px;
+	width:100px;
+	top:-25px;
+	text-align:left;
+	color:white;
+	font-family: "Lato", sans-serif;
+}
+
+
+.login{
+	position:relative;
+	height:30px;
+	width:200px;
+	left:800px;
+	top:0px;
+	margin-left:5px;
+	margin-right:70px;
+	border-color:#EB9100;
+	font-size:15px;
+	background-color:black;
+	color:white;
+	border-radius:10px;
+	
+}
+
+.login1{
+	position:relative;
+	height:30px;
+	width:200px;
+	left:1030px;
+	top:-37px;
+	margin-left:5px;
+	margin-right:70px;
+	border-color:#EB9100;
+	font-size:15px;
+	background-color:black;
+	color:white;
+	border-radius:10px;
+	
+}
+
+.submit1{
+  Position:relative;
+  top:-37px;
+  left:980px;
+  background-color:orange;
+  color: black;
+  height:40px;
+  width: 60px;
+}
+
+body{
+	width:500px;
+	height:100px;
+	background: url(images.jpg) no-repeat center center fixed;
+	background-size:cover;
+}
+
+.reg{
+	position:relative;
+	left:590px;
+	bottom:-10px;
+	margin-bottom:10px;
+	height:300px;
+	
+}
+
+.reg h1{
+	left:215px;
+	font-size:30px;
+	position:relative;
+	top:0px;
+	text-align:left;
+	color:white;
+	background-color:black;
+	width:270px;
+}
+
+.reg h2{
+	position:relative;
+	top:0px;
+	left:215px;
+	text-align:left;
+	color:white;
+	background-color:black;
+	width:150px;
+}
+
+.name1 {
+	position:relative;
+	height:30px;
+	width:210px;
+	left:210px;
+	bottom:0px;
+	margin-left:5px;
+	margin-right:25px;
+	margin-bottom:10px;
+	border-color:#EB9100;
+	font-size:18px;
+	background-color:black;
+	color:white;
+	border-radius:10px;
+}
+
+.password{
+	position:relative;
+	top:0px;
+	left:215px;
+	height:30px;
+	width:460px;
+	border-color:#EB9100;
+	margin-top:10px;
+	margin-bottom:10px;
+	font-size:18px;
+	background-color:black;
+	color:white;
+	border-radius:10px;
+}
+
+
+.repass {
+	position:relative;
+	top:10px;
+	left:215px;
+	height:30px;
+	width:460px;
+	border-color:#EB9100;
+	font-size:18px;
+	background-color:black;
+	color:white;
+	border-radius:10px;
+	margin-bottom:10px;
+}
+
+.email{
+	position:relative;
+	top:20px;
+	left:215px;
+	height:30px;
+	width:460px;
+	border-color:#EB9100;
+	font-size:18px;
+	background-color:black;
+	color:white;
+	border-radius:10px;
+	margin-bottom:10px;
+}
+
+.contact{
+	position:relative;
+	top:30px;
+	left:215px;
+	height:30px;
+	width:460px;
+	border-color:#EB9100;
+	font-size:18px;
+	background-color:black;
+	color:white;
+	border-radius:10px;
+	margin-bottom:10px;
+}
+
+.Birthday{
+	position:relative;
+	left:215px;
+	font-size:18px;
+	color:white;
+	background-color:black;
+	width:65px;
+	top:40px;
+}
+
+.birthday1 select{
+	height:40px;
+	width:55px;
+	background-color:black;
+	color:white;
+	margin-top:40px;
+	
+}
+
+.birthday1{
+	position:relative;
+	left:215px;
+	margin-top:10px;
+	height:400px;
+	width:180px;
+	
+}
+
+.Gender{
+	position:relative;
+	bottom:310px;
+	left:215px;
+	color:white;
+	background-color:black;
+	width:175px;
+	
+	
+}
+.Gender input{
+	margin-top:10px;
+	top:20px;
+	background-color:black;
+	
+	
+}
+
+.male{
+	top:20px;
+	font-size:18px;
+	background-color:black;
+	
+}
+
+.female{
+	top:20px;
+	font-size:18px;
+	background-color:black;
+}
+
+.submit{
+  Position:relative;
+  bottom:300px;
+  left:210px;
+  background-color: #EB9100;
+  color: black;
+  height:40px;
+  width: 60px;
+}
+
+.incorrect{
+	background-color:red;
+	color:white;
+	position:absolute;
+	left:815px;
+	top:292px;
+	width:250px;
+	display:none;
+}
+.incorrect2{
+	background-color:red;
+	color:white;
+	position:absolute;
+	left:815px;
+	top:235px;
+	width:480px;
+	display:none;
+}
+.incorrect3{
+	background-color:red;
+	color:white;
+	position:absolute;
+	left:815px;
+	top:460px;
+	width:250px;
+	display:none;
+}
+
+.footer{
+	position:relative;
+	bottom:-280px;
+	right:10px;
+	height:75px;
+	width:1350px;
+	background-color:#111;
+	color:white;
+	text-align:center;
+	margin:none;
+	border:none;
+	padding:0px;	
+}
